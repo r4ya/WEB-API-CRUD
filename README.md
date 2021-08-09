@@ -1,2 +1,2 @@
-# WEB-API-CRUD
+# ASP.NET CORE, C# ÇALIŞMALARI
 Deneme çalışması
