@@ -1,2 +1,2 @@
-# ASP.NET CORE, C# ÇALIŞMALARI
+# ASP.NET CORE ÇALIŞMALARI
 Deneme çalışması
